@@ -6,5 +6,6 @@ target 'TiddlerPersonal' do
     pod 'AMapLocation-NO-IDFA'	#定位SDK
     pod 'AMapNavi-NO-IDFA'		#导航SDK,已包含3D地图，无需单独引入3D地图
     pod 'AFNetworking', '~> 3.2.1'
+    pod 'AvoidCrash', '~> 2.5.2'
 
 end
